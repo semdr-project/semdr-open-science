@@ -1,5 +1,7 @@
 # SEMDR Open Science
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19615334.svg)](https://doi.org/10.5281/zenodo.19615334)
+
 **Central landing page for all open science outputs from the SEMDR project
 (Smart Energy Management & Demand Response Capabilities for Sustainable
 Industry).**
